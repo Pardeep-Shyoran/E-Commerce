@@ -11,12 +11,57 @@
     },
     {
       "id": "aaOmrnKvj8wrqqVnC0yL-",
-      "image": "https://play-lh.googleusercontent.com/vco-LT_M58j9DIAxlS1Cv9uvzbRhB6cYIZJS7ocZksWRqoEPat_QXb6fVFi77lciJZQ=w526-h296-rw",
-      "username": "pardeep",
-      "email": "pardeep@gmail.com",
+      "image": "https://www.jansatta.com/wp-content/uploads/2024/05/tvf-panchayat.jpg?w=350?w=528",
+      "username": "Ban Rakas",
+      "email": "banrakas@panchayat.com",
       "password": "123456",
       "isAdmin": false,
-      "cart": []
+      "cart": [
+        {
+          "product": {
+            "id": "2",
+            "title": "Mens Casual Premium Slim Fit T-Shirts ",
+            "price": 22.3,
+            "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+            "category": "men's clothing",
+            "image": "https://i.pinimg.com/736x/f7/f5/ec/f7f5ec6264634dfe0b7720757f9690ec.jpg"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "3",
+            "title": "Mens Cotton Jacket",
+            "price": 55.99,
+            "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+            "category": "men's clothing",
+            "image": "https://i.pinimg.com/736x/4a/1f/4c/4a1f4c0eaaec4374a197df0dd6c0a984.jpg"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "6",
+            "title": "Solid Gold Petite Micropave ",
+            "price": 168,
+            "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+            "category": "jewelery",
+            "image": "https://i.pinimg.com/736x/3d/f2/57/3df257df8721e1cc65e5d49097d850cc.jpg"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "5",
+            "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+            "price": 695,
+            "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+            "category": "jewelery",
+            "image": "https://i.pinimg.com/736x/f0/86/0f/f0860f8a6f75e7065947111f2a6ed0a6.jpg"
+          },
+          "quantity": 3
+        }
+      ]
     }
   ],
   "products": [
